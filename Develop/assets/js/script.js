@@ -3,7 +3,7 @@ var saveBtn = $(".saveBtn");
 
 
 // current day 
-$("#currentDay").text(moment().format('dddd MMM Do YY'));
+$("#currentDay").text(moment().format('ddd MMM Do YYYY'));
 
 // time block for the past, present, or future
 function timeBlock() {
