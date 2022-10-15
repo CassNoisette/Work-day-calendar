@@ -43,5 +43,4 @@ MIT license
 
 ## Website Link
 
-https://cassandre0617.github.io/Javascript-Test/
-
+https://cassandre0617.github.io/Work-day-calendar/
