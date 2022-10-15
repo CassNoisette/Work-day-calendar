@@ -39,7 +39,7 @@ MIT license
 
 ## Screenshot
 
-![Website](.assets/scheduler.gif)
+![Website](./Develop/assets/scheduler.gif)
 
 ## Website Link
 
